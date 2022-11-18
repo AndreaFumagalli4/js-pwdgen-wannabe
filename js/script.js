@@ -10,3 +10,8 @@ let secondName = prompt ('What\' your second name?');
 
 console.log (secondName);
 
+// Ask user favorite color
+
+let favoriteColor = prompt ('What\' your favorite color?');
+
+console.log (favoriteColor);
