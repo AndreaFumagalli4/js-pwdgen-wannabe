@@ -1,0 +1,40 @@
+/* RESET */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.container{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+header h1{
+    font-size: 2rem;
+    color: #2d64e6;
+    padding: 1rem 0 3rem;
+}
+
+main h2,
+main p{
+    padding-bottom: 2rem;
+}
+
+main img{
+    margin: 0 auto;
+    width: 70%;
+}
+
+main p.run{
+    padding-top: 5rem;
+    color: red;
+    font-size: 1.5rem;
+}
+
