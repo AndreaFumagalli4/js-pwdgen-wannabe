@@ -15,3 +15,7 @@ console.log (secondName);
 let favoriteColor = prompt ('What\' your favorite color?');
 
 console.log (favoriteColor);
+
+// Write HTML questions result
+
+document.getElementById ('output').innerHTML = firstName + secondName + favoriteColor + '22';
